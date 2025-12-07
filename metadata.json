@@ -1,0 +1,5 @@
+{
+  "name": "Three-Body Star Map",
+  "description": "A 3D interactive visualization of character relationships in The Three-Body Problem, powered by Gemini.",
+  "requestFramePermissions": []
+}
